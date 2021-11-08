@@ -1,0 +1,55 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Pods Admin Columns\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-08 15:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.1\n"
+"X-Domain: pods-admin-columns"
+
+#. Description of the plugin
+msgid ""
+"Add option for showing custom fields managed by Pods in WordPress admin "
+"dashboard."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/joker-x"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/joker-x/pods-admin-columns"
+msgstr ""
+
+#. Author of the plugin
+msgid "joker-x"
+msgstr ""
+
+#. Name of the plugin
+msgid "Pods Admin Columns"
+msgstr ""
+
+#: pods-admin-columns.php:84
+msgid "Show as column in dashboard"
+msgstr ""
+
+#: pods-admin-columns.php:79
+msgid "WP Dasboard"
+msgstr ""
+
+#: pods-admin-columns.php:95
+msgid "You need to activate Pods plugin."
+msgstr ""
+
+#: pods-admin-columns.php:97
+msgid "You need to install Pods plugin."
+msgstr ""
